@@ -2,7 +2,7 @@
 
 
 # Repoinsta
-WhatsApp Crash With one  Message
+Instagram bann With one  Message
 
 ###### Repoinsta by  sending Only One Text.
 ***
@@ -44,7 +44,7 @@ python3 Repoinsta.py
 Tutorial:-
 
 
-https://github.com/hackerxphantom/WA_CRASHER/assets/70594016/1402b1d4-c8ad-44c8-b9c4-eb72978585fd
+https://github.com/Vishal0Hacker/Repoinsta/blob/main/View/VN20250328_093202.mp4
 
 
 
