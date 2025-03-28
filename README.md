@@ -1,10 +1,10 @@
 ![PicsArt_05-26-10 36 25](https://user-images.githubusercontent.com/70594016/170420481-a4f3f65c-7ce5-4cb7-82a5-c6dd26bb3b6a.jpg)
 
 
-# WA_CRASH
+# Repoinsta
 WhatsApp Crash With one  Message
 
-###### Crash Whatsapp by  sending Only One Text.
+###### Repoinsta by  sending Only One Text.
 ***
 ### <p align="center">Commands to run tool in ur terminal
 ***
@@ -29,16 +29,16 @@ pkg install python git -y
 pip install colorama
 ```
 ```bash
-git clone https://github.com/Vishal0Hacker/WA_CRASH
+git clone https://github.com/Vishal0Hacker/Repoinsta
 ```
 ```bash
-cd WA_CRASH
+cd Repoinsta
 ```
 ```bash
-chmod +x WA_CRASH.py
+chmod +x * 
 ```
 ```bash
-python3 WA_CRASH.py
+python3 Repoinsta.py
 ```
 
 Tutorial:-
